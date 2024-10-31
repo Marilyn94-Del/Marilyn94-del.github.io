@@ -147,6 +147,25 @@ footer a:visited {
     header {
         position: sticky;
     }
+    header #subtitle {
+        font-size: 1.125rem; /* 18px */
+    }
+
+    footer .linkedin-icon {
+        transform: scale(1.5);
+    }
+
+    footer .github-icon {
+        transform: scale(1.5);
+    }
+
+    footer .email-icon {
+        transform: scale(1.5);
+    }
+
+    .social-list li i {
+        margin-right: 10px;
+    }
 }
 
 @media (min-width: 768px) {
@@ -165,7 +184,21 @@ footer a:visited {
     p {
         font-size: 1.125rem; /* 18px */
     }
-    header #subtitle {
-        font-size: 1.125rem; /* 18px */
+    footer .linkedin-icon {
+        transform: scale(1.5);
     }
+
+    footer .github-icon {
+        transform: scale(1.5);
+    }
+
+    footer .email-icon {
+        transform: scale(1.5);
+    }
+
+    .social-list li i {
+        margin-right: 10px;
+    }
+}
+   
 }
