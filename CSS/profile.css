@@ -148,19 +148,19 @@ footer a:visited {
         position: sticky;
     }
     header #subtitle {
-        font-size: 1.125rem; /* 18px */
+        font-size: 1rem; /* 18px */
     }
 
     footer .linkedin-icon {
-        transform: scale(1.5);
+        transform: scale(2);
     }
 
     footer .github-icon {
-        transform: scale(1.5);
+        transform: scale(2);
     }
 
     footer .email-icon {
-        transform: scale(1.5);
+        transform: scale(2);
     }
 
     .social-list li i {
@@ -184,21 +184,5 @@ footer a:visited {
     p {
         font-size: 1.125rem; /* 18px */
     }
-    footer .linkedin-icon {
-        transform: scale(1.5);
-    }
-
-    footer .github-icon {
-        transform: scale(1.5);
-    }
-
-    footer .email-icon {
-        transform: scale(1.5);
-    }
-
-    .social-list li i {
-        margin-right: 10px;
-    }
-}
    
 }
