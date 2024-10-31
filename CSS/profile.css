@@ -165,5 +165,7 @@ footer a:visited {
     p {
         font-size: 1.125rem; /* 18px */
     }
-    
+    header #subtitle {
+        font-size: 1.125rem; /* 18px */
+    }
 }
