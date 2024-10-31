@@ -148,24 +148,21 @@ footer a:visited {
         position: sticky;
     }
     header #subtitle {
-        font-size: 1rem; /* 18px */
+        font-size: 16px;
     }
 
     footer .linkedin-icon {
-        transform: scale(2);
+        transform: scale(3);
     }
 
     footer .github-icon {
-        transform: scale(2);
+        transform: scale(3);
     }
 
     footer .email-icon {
-        transform: scale(2);
+        transform: scale(3);
     }
 
-    .social-list li i {
-        margin-right: 10px;
-    }
 }
 
 @media (min-width: 768px) {
