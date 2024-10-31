@@ -148,19 +148,19 @@ footer a:visited {
         position: sticky;
     }
     header #subtitle {
-        font-size: 16px;
+        font-size: 36px;
     }
 
     footer .linkedin-icon {
-        transform: scale(3);
+        transform: scale(2);
     }
 
     footer .github-icon {
-        transform: scale(3);
+        transform: scale(2);
     }
 
     footer .email-icon {
-        transform: scale(3);
+        transform: scale(2);
     }
 
 }
