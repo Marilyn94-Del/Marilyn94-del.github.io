@@ -15,7 +15,7 @@ body {
 
 header {
     color: white;
-    background-image: url("/Users/david/Desktop/NewProject/DavidBakhtan.github.io/Assets/Image/banner1.png") ;
+    background-image: url("https://github.com/davidbakhtan/DavidBakhtan.github.io/blob/f6384023d6a5bb30f1c6ccc5c1ccac97b02f6c1a/Assets/Image/banner1.png") ;
     background-size: cover; 
     background-position: center;
     font-size: cover;
